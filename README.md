@@ -4,7 +4,7 @@
     <br/>
     👍
     <br />
-    react-use
+    react-use2
     <br />
     <br />
     <br />
